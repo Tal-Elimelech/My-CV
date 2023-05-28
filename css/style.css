@@ -451,12 +451,14 @@ a:active {
 
 #contact{
   padding: 10px 0;
- 
+  
+	
 }
 
 #contact .contact-cont h3{
   color:#555;
   font-size: 45px;
+ 
 }
 
 #contact .contact-cont p{
@@ -499,6 +501,7 @@ a:active {
 
 .social-icon-f li{
   display: inline-block;
+  
 }
 
 .social-icon-f li i{
@@ -509,6 +512,7 @@ a:active {
   text-align: center;
   margin-right: 10px;
   border-radius: 50%;
+  
 }  
 
 @media(max-width: 767px){
@@ -526,6 +530,7 @@ a:active {
 
     .contact-box-desc{
         text-align: center;
+		
     }
 
     #contact .social-icon-f{
